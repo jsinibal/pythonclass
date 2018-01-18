@@ -8,5 +8,8 @@ If the repository does not contain a data folder, [download] a zipped data file 
 
 This file is messed up by JenS on Jan 18
 
+## New section
+2nd change to the file
+
 [download]: https://files.sesync.org/pydio/public/09bb83
 [CONTRIBUTING.md]: CONTRIBUTING.md
